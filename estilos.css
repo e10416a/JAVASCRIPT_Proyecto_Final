@@ -7,7 +7,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 header {
-    background-color: rgb(247, 13, 13);
+    background-color: rgb(95, 13, 247);
     margin-bottom: 5px;
     border-bottom: 5px solid black;
 }
@@ -61,7 +61,7 @@ main {
 }
 .btn {
     padding: 5px 30px;
-    background-color: rgb(16, 204, 16);
+    background-color: rgb(16, 176, 204);
     color: rgb(7, 0, 0);
     cursor: pointer;
     font-weight: 700;
